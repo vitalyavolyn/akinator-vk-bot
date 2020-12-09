@@ -1,0 +1,11 @@
+{
+  "name": "akinator-vk-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vk-io/session": "^2.0.0",
+    "aki-api": "^5.2.0",
+    "vk-io": "^4.1.1"
+  }
+}
